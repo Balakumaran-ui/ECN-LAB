@@ -25,6 +25,7 @@
 **CIRCUIT DIAGRAM:**
 
 
+<img width="1600" height="1200" alt="WhatsApp Image 2026-06-06 at 10 36 37 AM" src="https://github.com/user-attachments/assets/1b403f5d-1173-4a79-9836-084ef43cb6d8" />
 
 
 
